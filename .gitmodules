@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IMD"]
+	path = IMD
+	url = https://github.com/matthewgthomas/imd
+	shallow = true
+	registered = true
